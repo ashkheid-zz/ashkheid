@@ -1,14 +1,17 @@
 ### Hi there 👋, my name is Ashkan
 #### 28 • FrontEnd Developer • Graphic Designer
 
+- 🌱 I’m currently learning React 
+- 😄 Pronouns: he, him, his 
+
+
 <!--
 ![28 • FrontEnd Developer • Graphic Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: JS / HTML / CSS
 
-- 🌱 I’m currently learning React 
-- 😄 Pronouns: he, him, his 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashkheid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashkanheidary/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashk.heid/)  
