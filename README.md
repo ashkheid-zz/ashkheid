@@ -8,6 +8,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashkheid&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+|||
+|-|-|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkheid)](https://github.com/anuraghazra/github-readme-stats)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkheid&show_icons=true&count_private=true)|
+ 
+
+
 <!--
 ![28 • FrontEnd Developer • Graphic Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -20,11 +27,10 @@ Skills: JS / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkheid)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkheid&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ashkheid)  
+
+
 
 
 
