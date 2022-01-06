@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is Ashkan
-
+#### 28 • FrontEnd Developer • Graphic Designer
 
 <!--
-### Hi there 👋, my name is Ashkan
-#### 28 • FrontEnd Developer • Graphic Designer
 ![28 • FrontEnd Developer • Graphic Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
