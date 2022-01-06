@@ -7,12 +7,12 @@
 
 |||
 |-|-|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkheid)](https://github.com/anuraghazra/github-readme-stats)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkheid&show_icons=true&count_private=true)|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkheid)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkheid&show_icons=true&count_private=true)|
  
 ||
 |:---:|
 |![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashkheid)|
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashkheid&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)|
+![trophy](https://github-profile-trophy.vercel.app/?username=ashkheid&theme=onedark&no-frame=true)|
  
 <hr />
 
