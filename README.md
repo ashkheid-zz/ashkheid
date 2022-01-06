@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning React 
 - 😄 Pronouns: he, him, his 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashkheid)
 
 <!--
 ![28 • FrontEnd Developer • Graphic Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: JS / HTML / CSS
-
 
 
 
@@ -24,7 +24,7 @@ Skills: JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/ashkheid)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashkheid)  
+
 
 
 -->
