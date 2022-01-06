@@ -9,9 +9,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashkheid&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-|||
-|-|-|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkheid)](https://github.com/anuraghazra/github-readme-stats)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkheid&show_icons=true&count_private=true)|
+<div style="display:flex" >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkheid)](https://github.com/anuraghazra/github-readme-stats)
+
+<span style="width:15px; display:inline-block"></span>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkheid&show_icons=true&count_private=true)
+
+</div>
  
 
 
