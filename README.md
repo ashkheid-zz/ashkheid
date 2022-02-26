@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ashkan
+### Hi there 👋, my name is Ashkan...
 #### 28 • FrontEnd Developer • Graphic Designer
 
 - 🌱 I’m currently learning React 
